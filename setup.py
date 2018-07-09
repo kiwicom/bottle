@@ -9,7 +9,7 @@ if sys.version_info < (2,5):
 
 import bottle
 
-setup(name='bottle',
+setup(name='kiwi-bottle',
       version=bottle.__version__,
       description='Fast and simple WSGI-framework for small web-applications.',
       long_description=bottle.__doc__,
